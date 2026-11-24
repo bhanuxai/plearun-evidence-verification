@@ -1,8 +1,8 @@
 
 import csv
 import json
-import re
-import io
+import re # Search for patterns using regular expressions
+import io # Treat a string like a file so CSV reader can process it
 from pathlib import Path
 
 
